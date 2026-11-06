@@ -62,3 +62,11 @@ A Retry error handler is configured for the Airtable record-creation module, wit
 ## Author
 
 Developed as part of the Think AI Works internship project.
+
+
+## Project Demo
+
+Watch the complete project demonstration:
+
+[Social DM Inbox Automation – Loom Demo](https://www.loom.com/share/d2093396909248e987ebf5316612dc55)
+
